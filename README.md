@@ -1,50 +1,38 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Stacks and Queues](./assets/tktk-hero.png)
 
-## About
+## Stacks and Queues
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+tktk stacks and Queues intro language
+
+There are two components to this lesson: 
+
+  1. Stacks and Queues
+  2. Exercise: Implementing Stacks and Queues
+
+## Learning Objectives
+
+By the end of this lesson, you'll be able to:
+
+- Distinguish between a stack and a queue.
+- Determine situations in which you’d use a stack or queue over another data structure.
+- Build a stack and a queue using a linked list or an array.
 
 ## Prerequisites
 
-- tktk
+- None
 
-## Time to complete
+## Duration: 
 
-Estimated time to complete core lab exercise: **tktk min**
+1.5 hours total: 
 
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
+- 0.5 hour lecture
+- 1 hour exercise
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Level Up
+## Additional Resources
 
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
-
-## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+tktk
