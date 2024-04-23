@@ -8,29 +8,21 @@ Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 cd ~/code/ga/labs
 ```
 
-<!-- tktk if starter code exists -->
+Make a new repository on [GitHub](https://github.com/) named cs-stacks-and-queues.
 
-Fork the [[tktk Repo Name]](https://git.generalassemb.ly/modular-curriculum-all-courses/[tktk Repo Name]) repository.
-
-<!-- tktk if starting from scratch  -->
-
-Make a new repository on [GitHub](https://github.com/) named [tktk Repo Name].
-
-<!-- tktk -->
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/[tktk Repo Name].git [tktk Personal GitHub for new labs]
-git clone https://git.generalassemb.ly/<your-username>/[tktk Repo Name].git [tktk GA enterprise GitHub for starter code]
+git clone https://github.com/<your-username>/cs-stacks-and-queues.git 
 ```
 
 > 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-Next, `cd` into your new cloned directory, `[tktk Repo Name]`:
+Next, `cd` into your new cloned directory, `cs-stacks-and-queues`:
 
 ```bash
-cd [tktk Repo Name]
+cd cs-stacks-and-queues
 ```
 
 Open the project's folder in your code editor:

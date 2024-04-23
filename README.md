@@ -2,12 +2,7 @@
 
 ## Stacks and Queues
 
-tktk stacks and Queues intro language
-
-There are two components to this lesson: 
-
-  1. Stacks and Queues
-  2. Exercise: Implementing Stacks and Queues
+Stacks and Queues are data structures which can be implemented as an array or linked list, differentiated by how items are added to and removed from them. 
 
 ## Learning Objectives
 
@@ -23,15 +18,14 @@ By the end of this lesson, you'll be able to:
 
 ## Duration: 
 
-1.5 hours total: 
+0.5 hours total: 
 
 - 0.5 hour lecture
-- 1 hour exercise
 
 ## Content
 
 - [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Stacks and Queues](./stacks-and-queues/README.md)
 
 ## Additional Resources
 
