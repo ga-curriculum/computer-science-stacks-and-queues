@@ -1,4 +1,4 @@
-# ![Computer Science - Stacks and Queues](../assets/tktk-hero.png)
+# ![Computer Science - Stacks and Queues](../assets/hero.png)
 
 ## Overview
 
