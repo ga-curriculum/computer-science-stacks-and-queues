@@ -266,7 +266,7 @@ class Queue {
   }
 
   peek() {
-    return isEmpty() ? 'empty list!' : this.head.data;
+    return this.isEmpty() ? 'empty list!' : this.head.data;
   }
 
   isEmpty() {
@@ -292,7 +292,7 @@ class Queue {
   }
 
   peek() {
-    return isEmpty() ? 'empty list!' : this.items[0];
+    return this.isEmpty() ? 'empty list!' : this.items[0];
   }
 
   isEmpty() {
