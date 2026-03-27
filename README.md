@@ -21,7 +21,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Stacks and Queues](./lesson/README.md)
-2. Exercise: [Bracket Matching](https://git.generalassemb.ly/modular-curriculum-all-courses/stacks-and-queues-starter-code)
+2. Exercise: [Bracket Matching](https://github.com/ga-curriculum/stacks-and-queues-starter-code)
 
 ## Solution Code 
 
